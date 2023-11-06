@@ -1,0 +1,15 @@
+[INFO ] 2023-11-06 15:22:36.943 [main] TestLogger - Implicit wait applied for 10 seconds
+[INFO ] 2023-11-06 15:23:01.031 [main] TestLogger - Logged into myntra
+[INFO ] 2023-11-06 15:23:01.562 [main] TestLogger - Quitting the driver
+[INFO ] 2023-11-06 15:24:59.604 [main] TestLogger - Implicit wait applied for 10 seconds
+[INFO ] 2023-11-06 15:25:02.847 [main] TestLogger - Logged into Myntra
+[ERROR] 2023-11-06 15:25:12.940 [main] TestLogger - Exception occured
+java.lang.Exception: Element not found
+	at com.log4j2demo.TestLogger.main(TestLogger.java:27) [test-classes/:?]
+[INFO ] 2023-11-06 15:25:14.479 [main] TestLogger - Quitting the driver
+[INFO ] 2023-11-06 15:27:24.523 [main] TestLogger - Implicit wait applied for 10 seconds
+[INFO ] 2023-11-06 15:27:28.133 [main] TestLogger - Logged into Myntra
+[INFO ] 2023-11-06 15:27:39.275 [main] TestLogger - Quitting the driver
+[INFO ] 2023-11-06 15:42:53.458 [main] TestLogger - Implicit wait applied for 10 seconds
+[INFO ] 2023-11-06 15:42:57.581 [main] TestLogger - Logged into Myntra
+[INFO ] 2023-11-06 15:43:01.252 [main] TestLogger - Quitting the driver
